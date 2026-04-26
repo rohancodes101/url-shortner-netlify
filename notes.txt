@@ -1,0 +1,11 @@
+Supbase project
+Password: tDH3rBxxOy6rmVss
+project url: https://bxjvmjdoivsoxibalufx.supabase.co
+publishable key: sb_publishable_zNTz-fGnDITehzwvSTxMGA_4L2hHF6D
+direct conenction string: postgresql://postgres:[YOUR-PASSWORD]@db.bxjvmjdoivsoxibalufx.supabase.co:5432/postgres
+cli: supabase login
+supabase init
+supabase link --project-ref bxjvmjdoivsoxibalufx
+
+database api keys:
+https://bxjvmjdoivsoxibalufx.supabase.co/urls
